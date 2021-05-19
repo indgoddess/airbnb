@@ -2,7 +2,9 @@
 
 ## Link hosted on  - https://airbnb-clone-react-4d618.web.app/
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/indgoddess/airbnb/blob/master/airbnb01.png?raw=true)
+
+![alt text](https://github.com/indgoddess/airbnb/blob/master/airbnb02.png?raw=true)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
