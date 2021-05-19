@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Created with React js - Front End only and Deployed on firebase
 
 ## Link hosted on  - https://airbnb-clone-react-4d618.web.app/
 
